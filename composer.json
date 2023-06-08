@@ -1,0 +1,17 @@
+{
+    "name": "aiolo/cours_persos_php",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aiolo\\CoursPersosPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FabienFattore",
+            "email": "aiolos79xbox@gmail.com"
+        }
+    ]
+}
